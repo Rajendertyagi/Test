@@ -1,1 +1,1 @@
-gfhfghgfhgfhfg......googleadservices.com
+*.googleadservices.com
