@@ -1,1 +1,3 @@
-nssm.exe install JellyfinServer "D:\jellyfin\system\jellyfin.exe" --service --datadir "D:\jellyfin\jellyfindata"
+"D:\jellyfin\system\nssm.exe" install JellyfinServer "D:\jellyfin\system\jellyfin.exe" --service --datadir "D:\jellyfin\jellyfindata"
+
+"D:\jellyfin\system\nssm.exe" start JellyfinServer
