@@ -1,2 +1,2 @@
 ||googleadservices.com^$important
-||googleadservices.com^$important||googleadservices1.com^$important||googleadservices1.com^$important
+||googleadservices1.com^$important
