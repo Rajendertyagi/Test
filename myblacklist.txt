@@ -1,1 +1,3 @@
 ||googleadservices.com^$important
+||hesads.akamaized.net^$important
+||myairtelapp.bsbportal.com^$important
