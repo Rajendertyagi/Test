@@ -1,3 +1,11 @@
+||ad.doubleclick.net^$important
+||adtracker.jiocinema.com^$important
+||engage.jiocinema.com^$important
+||epdg.epc.mnc010.mcc404.pub.3gppnetwork.org^$important
+||firetvcaptiveportal.com^$important
+||hesads.akamaized.net^$important
+||myairtelapp.bsbportal.com^$important
+||yt3.ggpht.com^$important
 ||googleadservices.com^$important
 ||hesads.akamaized.net^$important
 ||myairtelapp.bsbportal.com^$important
